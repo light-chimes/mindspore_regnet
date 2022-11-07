@@ -1,0 +1,2 @@
+RegNet in [*Designing Network Design Spaces*](https://arxiv.org/pdf/2003.13678.pdf), implemented by MindSpore.  
+This repo refers to the repository [facebookresearch/pycls](https://github.com/facebookresearch/pycls).
